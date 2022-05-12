@@ -1,0 +1,10 @@
+/.idea
+/.ipynb_checkpoints
+/__pycache__
+/Models
+/Notebooks
+/output
+/Training Configs
+/Training Text
+test.py
+requirements.txt
